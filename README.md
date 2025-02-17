@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ntare1
-- 🌱 I’m currently learning Software Engineering through ALX
 - 📫 I can be reached on isaacntare1@gmail.com
 
 <!---
